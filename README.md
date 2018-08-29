@@ -1,2 +1,2 @@
 # one
-Stuff for testing
+Just for testing, code examples and so on.
